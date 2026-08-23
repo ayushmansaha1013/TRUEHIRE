@@ -17,8 +17,8 @@
 | **Problem Statement ID** | Omni_CyberTech_10 |
 | **Domain** | Cybersecurity, Blockchain & Digital Trust |
 | **Problem** | Identifying Fake Job Postings and Recruitment Scams |
-| **Team** | [Your Team Name] |
-| **Institution** | [Your College/University Name] |
+| **Team** | ByteShield |
+| **Institution** | Institute Of Engineering And Management, Kolkata|
 
 ---
 
