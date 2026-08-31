@@ -26,9 +26,9 @@
 
 | Resource | Link |
 |----------|------|
-| **Live Demo** | [https://truehire.vercel.app](https://truehire.vercel.app) |
-| **Submission PDF** | [docs/TrueHire_Submission.pdf](docs/TrueHire_Submission.pdf) |
-| **Architecture Diagram** | [docs/architecture.png](docs/architecture.png) |
+| **Live Demo** |  |
+| **Submission PDF** |  |
+| **Architecture Diagram** |  |
 
 ---
 
