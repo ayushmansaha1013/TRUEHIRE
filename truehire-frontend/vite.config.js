@@ -14,7 +14,7 @@ export default defineConfig(({ mode }) => {
 
       proxy: {
         "/api": {
-          target: env.VITE_API_URL || "https://pusher-eggbeater-undermine.ngrok-free.dev",
+          target: env.VITE_API_URL || "https://pusher-eggbeater-undermine.ngrok-free.dev/",
           changeOrigin: true,
           secure: false,
         },
