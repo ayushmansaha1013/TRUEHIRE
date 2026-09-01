@@ -928,7 +928,7 @@
 import { useEffect, useMemo, useState } from "react";
 
 // Dynamically target backend URL (Vite environment variable or fallback)
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const API_URL = import.meta.env.VITE_API_URL || "https://pusher-eggbeater-undermine.ngrok-free.dev";
 
 const DEMO_SAFE = `Frontend Developer Intern
 
