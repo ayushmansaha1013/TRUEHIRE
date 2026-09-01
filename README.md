@@ -26,9 +26,8 @@
 
 | Resource | Link |
 |----------|------|
-| **Live Demo** |  |
-| **Submission PDF** |  |
-| **Architecture Diagram** |  |
+| ** Demo** |  https://drive.google.com/file/d/1_lGl6fGs96_UghHCKWvOOIhImB2PwHfe/view?usp=sharing|
+|**Website Link**| https://lucent-queijadas-2dff09.netlify.app/|
 
 ---
 
